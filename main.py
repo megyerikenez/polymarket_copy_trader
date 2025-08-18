@@ -31,3 +31,4 @@ if __name__ == "__main__":
     # Start each process
     for process in processes:
         process.start()
+
