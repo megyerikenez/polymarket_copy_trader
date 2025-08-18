@@ -40,3 +40,4 @@ st.subheader('Size of Trades Over Time')
 df_sorted = df.sort_values('timestamp')
 st.line_chart(df_sorted.set_index('timestamp')['size'])
 
+
