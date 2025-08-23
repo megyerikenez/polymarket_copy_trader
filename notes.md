@@ -76,3 +76,4 @@ NOTE: tail_trade is eval'ing to TRUE if the trade hits all params, but isnt a BU
 1. Need to look at this. We dont want to tail a MERGE, if that's even possible
 2. Turn trading_script.md into code
 - read in tail_trades.json, create orders, and flip bot_executed to True
+
