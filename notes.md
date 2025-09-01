@@ -78,3 +78,4 @@ NOTE: tail_trade is eval'ing to TRUE if the trade hits all params, but isnt a BU
 - read in tail_trades.json, create orders, and flip bot_executed to True
 
 
+
